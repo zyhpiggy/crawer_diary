@@ -1,0 +1,17 @@
+2023年9月6日 
+在W3C里面学习html和css的基础知识
+元素：是指从起始标签到结束标签的全部代码
+属性：元素通过属性来标记，属性有一个名称和一个值
+  全局属性：是指可以应用在任何一个html元素，例如class和id
+  布尔属性：没有值的属性
+结构体：
+  DOCTYPE element：<！DOCTYPE HTML> 告诉浏览器这是一个html文档。
+  html element：包含html标签的文本文件，html标签包括head元素和body元素
+      head元素：元素封装元数据和文档信息，并不在浏览器中显示，
+          1、具有关于文档中的内容和标记的信息；2、还包括脚本和对外部资源的引用，例如 CSS 样式表。
+          title 元素必选的元素; 其他元数据元素是可选的，大多数浏览器在浏览器中显示title元素窗口标题栏或显示页面的选项卡顶部
+          Base  元素为相对链接设置基本URL，有两个局部属性：href和target
+          meta  元素定义文档的元数据，局部属性包括name，content，charset，http-equiv
+          
+      body元素：封装了 HTML 文档的内容
+    
